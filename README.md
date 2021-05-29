@@ -1,4 +1,5 @@
-### Hi there 👋
+
+<img src=https://media.giphy.com/media/Rm9RzjSAfXm4o/giphy.gif width=200 />
 
 <!--
 **mihaerzen/mihaerzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
